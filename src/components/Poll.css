@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    align-items: center;
+}
+.naviteam{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+h5{
+    margin-right: 30px;
+}
